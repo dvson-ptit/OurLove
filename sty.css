@@ -126,6 +126,13 @@ p {
     background: #ef6a8a url("") repeat center center;
 }
 
+/* couple  */
+.couple{
+    background-image: url(images/backgrond-1.JPG)!important;
+    background-color: #18a3fe!important;
+
+}
+
 /* Layout boxed*/
 .layout-boxed .container_full {
     margin: 0 auto;
@@ -1479,7 +1486,7 @@ video#bgvideo {
     background: url("") no-repeat 0 0;
 }
 
-..social-icons li.delicious a {
+.social-icons li.delicious a {
     background: url("") no-repeat 0 0;
 }
 
